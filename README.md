@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Haskell, DSA, Logic & Automata**
 
-- 👯 I’m looking to collaborate on **Computational physics projects**
+- 👯 I’m looking to collaborate on **computational physics projects**
 
 - 🤝 I’m looking for help with **Ansys simulations**
 
