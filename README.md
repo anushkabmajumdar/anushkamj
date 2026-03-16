@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Ansys simulations**
 
-- 📝 I regularly write articles on [https://anushkamj.substack.com/](https://anushkamj.substack.com/)
+- 📝 I have some articles on [https://anushkamj.substack.com/](https://anushkamj.substack.com/)
 
 - 📫 How to reach me **anushkamajumdarr@gmail.com**
 
