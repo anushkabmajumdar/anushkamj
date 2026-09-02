@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [F1 Aero Flow](https://github.com/anushkamj/F1-AeroFlow)
 
-- 🌱 I’m currently learning **Haskell, DSA, Logic & Automata**
+- 🌱 I’m currently learning **DSA, Logic & Automata**
 
 - 👯 I’m looking to collaborate on **computational physics projects**
 
