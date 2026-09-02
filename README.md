@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Anushka 🐐</h1>
-<h3 align="center">An 18 year old student interested in computational physics</h3>
+<h3 align="center">An 18 year old student interested in computational physics & finance</h3>
 
 - 🔭 I’m currently working on [F1 Aero Flow](https://github.com/anushkamj/F1-AeroFlow)
 
