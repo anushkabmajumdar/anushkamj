@@ -1,17 +1,17 @@
 <h1 align="center">Hey, I'm Anushka 🐐</h1>
 <h3 align="center">An 18 year old student interested in computational physics & finance</h3>
 
-- 🔭 I’m currently working on [F1 Aero Flow](https://github.com/anushkamj/F1-AeroFlow)
+- I’m currently working on [F1 Aero Flow](https://github.com/anushkamj/F1-AeroFlow)
 
-- 🌱 I’m currently learning **DSA, Logic & Automata**
+- I’m currently learning **DSA, Logic & Automata**
 
-- 👯 I’m looking to collaborate on **computational physics projects**
+- I’m looking to collaborate on **computational physics projects**
 
-- 🤝 I’m looking for help with **Ansys simulations**
+- I’m looking for help with **Ansys simulations**
 
-- 📝 I have some articles on [https://anushkamj.substack.com/](https://anushkamj.substack.com/)
+- I have some articles on [https://anushkamj.substack.com/](https://anushkamj.substack.com/)
 
-- 📫 How to reach me **anushkamajumdarr@gmail.com**
+- How to reach me **anushkamajumdarr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
